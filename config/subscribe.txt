@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://m3u.ibert.me/o_s_cn.m3u
-
+https://m3u.ibert.me/cn_n.m3u
 
 
 [WHITELIST]
