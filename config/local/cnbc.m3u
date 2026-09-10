@@ -1,0 +1,7 @@
+#EXTM3U
+# iptv-org 全球 index.m3u 狩猎(2026-09-10 双模实测全 200,详见 CLAUDE.md 下次更新专项)
+# UK 1080p 主源(Amagi,多码率 master);US 标清备源(480p,过不了 min_resolution 会被滤,无害)
+#EXTINF:-1 http-user-agent="iPhone" group-title="境外",CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 http-user-agent="iPhone" group-title="境外",CNBC
+http://41.205.93.154/CNBC/index.m3u8

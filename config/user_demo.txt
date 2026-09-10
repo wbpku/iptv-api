@@ -935,3 +935,4 @@ MTV Live
 NatGeo
 NatGeo Wild
 TLC
+CNBC
