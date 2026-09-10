@@ -908,13 +908,36 @@ iHOT爱体育
 龙华电影
 🐼直播熊猫
 其他频道,#genre#
-ABN China
-Angel TV Chinese
 Beijing Traffic Radio TV
 Beijing Youth Radio
+Nei Monggol TV 2 Mongolian Culture Channel
+境外频道,#genre#
+AXN
+GOOD TV真理台
+GOOD TV综合台
+MOMOTV
+东森财经
+中天综合
+原住民族
+台视
+唯心电视
+大爱
+大爱2
+大立
+客台
+民视第一台
+港台电视 31
+港台电视 32
+港台电视 33
+港台电视 34
+港台电视 35
+澳视卫星
+澳视澳门
+澳门体育
+ABN China
+Angel TV Chinese
 Dragon TV International
 Home Plus
-Nei Monggol TV 2 Mongolian Culture Channel
 TV BRICS Chinese
 ado tv
 rkb news 24
@@ -993,26 +1016,3 @@ NatGeo Wild
 NatGeo_Wild
 Natgeo_
 TLC
-境外频道,#genre#
-AXN
-GOOD TV真理台
-GOOD TV综合台
-MOMOTV
-东森财经
-中天综合
-原住民族
-台视
-唯心电视
-大爱
-大爱2
-大立
-客台
-民视第一台
-港台电视 31
-港台电视 32
-港台电视 33
-港台电视 34
-港台电视 35
-澳视卫星
-澳视澳门
-澳门体育
