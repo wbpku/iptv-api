@@ -173,7 +173,7 @@ CGTN纪录,CGTN Documentary,cgtn documentary,[BD]cgtn纪录,[BD]cgtn documentary
 华丽翡翠台,翡翠台华丽,翡翠台(馬來),翡翠台(马来),华丽翡翠台(多音轨字幕),华丽翡翠台(新加坡),无线华丽,TVB华丽翡翠,TVB华丽翡翠新加坡,tvb華麗,Astro华丽台 *b,无线华丽Pdtv,无线华丽台,華麗翡翠台
 TVB Plus,TVBPlus,TVB plus 超清,TVB+,TVB PLUS(多音轨字幕),tvb plus超清,tvb+,tvbplus,tvb plus,TVBS Plus,Plus综合Pdtv,Plus综合,Plus综合频晴,无线Plus频伍,TVB82,82台,无线82台,TVB Plus 82,TVB综合频道,TVB Plus82,TVBplus,TVB Plus H.265,备用源1:TVB Plus,TVB综合,无线Plus台,TVB PLUS,TVBPLUS,Plus综合高码,TVB plus
 TVB星河,无线星河,TVB星河国语,TVB星河(多音轨字幕),无线星河Pdtv,tvb星河,tvb星河频道,星河,TVB无线星河,无线星河频晴,星河频道,备用源1:TVB星河,备用源2:TVB星河,TVB星河频道,无线星河国,无线星河粤,TVB Xing He,TVB XingHe
-TVBS亚洲,TVBS亚洲
+TVBS亚洲,TVBS亚洲,TVBS亞洲台
 凤凰资讯,鳳凰資訊HD,鳳凰資訊台,鳳凰衛視資訊,[BD]凤凰卫视资讯,凤凰资讯Pdtv,凤凰资讯hd,凤凰资讯台,凤凰卫视资讯台,鳳凰衛視資訊台,凤凰资讯高清,凤凰信息频晴,凤凰资讯频陆,备用源1:凤凰资讯,Phoenix InfoNews Channel,凤凰卫视 资讯台,凤凰资讯ipv6
 香港卫视,香港衛視,香港卫视高清,香港卫视 高清,香港卫视 8m1080,香港卫视HKS,香港卫视频晴,卫视频晴
 华艺中文,華藝中文,华艺中文频道,華藝中文頻道
@@ -193,7 +193,7 @@ Astro欢喜台,ASTRO欢喜台,ASTRO 欢喜 *b,astro欢喜,Astro 欢喜台,Astr�
 龙华洋片,龍華洋片,龙华洋片台,龍華洋片台
 龙华卡通,龍華卡通,龙华卡通台,龍華卡通台
 三立新闻,三立新聞inews,三立新聞,三立INEWS HD,三立新闻台,SET News,三立NEWS+,三立新闻频晴,三立新闻频陆,三立新闻4Gtv,SET News (三立新聞) (1080p) [Geo-blocked],setnews
-中天新闻,[BD]中天新聞,中天新聞,中天新聞FHD,[BD]中天新闻,中天新闻台,CTi News,中天新闻Pdtv,中天新闻频晴,中天新闻频伍,中天新闻频陆,中天新闻4Gtv
+中天新闻,[BD]中天新聞,中天新聞,中天新聞FHD,[BD]中天新闻,中天新闻台,CTi News,中天新闻Pdtv,中天新闻频晴,中天新闻频伍,中天新闻频陆,中天新闻4Gtv,中天新聞台
 中视,中視,中視HD,中视 *a,[BD]中视,中视综合台,中国电视公司
 中视新闻,中視新聞,中視新聞FHD,中視新聞臺,中視新聞 *ee,[BD]中視新聞 *ee,中视新闻台,CTV News,中视新闻频陆,中视新闻频晴
 中视经典,中視經典,中视经典 *q,[BD]中视经典 *q,中视经典台,中视经典频晴
@@ -207,7 +207,7 @@ Astro欢喜台,ASTRO欢喜台,ASTRO 欢喜 *b,astro欢喜,Astro 欢喜台,Astr�
 澳视澳门,澳視澳門,澳视澳门Pdtv,TDM Ou Mun Macau,TDM Ou Mun-Macau,备用源1:澳视澳门,备用源2:澳视澳门,TDM Ou Mun,澳门澳门Macau,澳門-MACAU,澳门Macau,澳门-MACAU,MACAU,澳门mac台,TDM Ou Mun Macau Ch. 91 (720p),tdmoumunmacauch.91
 澳视卫星,澳視衛星,澳视卫星Pdtv,备用源1:澳视卫星,备用源2:澳视卫星,TDM-Macau Satellite,TDMMacauSatellite,Ou-Mun Macau Satellite Ch. 96 (720p),oumunmacausatellitech.96
 澳门综艺,澳門綜藝,澳门综艺Pdtv,TDM Entertainment,综艺Pdtv
-澳门莲花,澳门莲花,Lotus Macau HD 720p (720p),lotusmacau720p
+澳门莲花,澳门莲花,Lotus Macau HD 720p (720p),lotusmacau720p,澳門蓮花
 CHU,CHU综合,CHU综合Pdtv
 CH5,CH5综合,Channel 5,[BD]channel 5,CH5综合Pdtv
 CH8,CH8综合,Channel 8,[BD]channel 8,CH8综合Pdtv
@@ -228,23 +228,23 @@ AMC电影,AMC电影台,amc电影台,amcmovies,AMC電影台,amc電影台
 黑龙江卫视,黑龍江衛視,黑龙江卫视高清,黑龙江卫视 高清,黑龙江卫视 8m1080,[BD]黑龙江卫视高清,[BD]黑龙江卫视 8m1080,[BD]黑龙江卫视 高清,黑龙江卫视HD,[BD]黑龙江卫视,龙江卫视,黑龙江卫视频晴,黑龙江卫视HEVC,黑龙江卫视_HEVC,黑龙江卫视SD
 湖北卫视,湖北衛視,湖北卫视高清,湖北卫视 高清,湖北卫视 8m1080,[BD]湖北卫视高清,[BD]湖北卫视 8m1080,[BD]湖北卫视 高清,湖北卫视HD,[BD]湖北卫视,湖北卫视hd,湖北卫视频晴,湖北卫视HEVC,湖北卫视_HEVC,备用源1:湖北卫视,湖北卫视SD,湖北卫视咪咕
 吉林卫视,吉林衛視,吉林卫视高清,吉林卫视 高清,吉林卫视 8m1080,[BD]吉林卫视高清,[BD]吉林卫视 8m1080,[BD]吉林卫视 高清,吉林卫视HD,[BD]吉林卫视,吉林卫视hd,吉林卫视频晴,备用源1:吉林卫视,Jilin Satellite TV,吉林卫视SD
-江苏卫视,江蘇衛視,江苏卫视高清,江苏卫视 高清,江苏卫视 8m1080,江蘇衛視(B),[BD]江苏卫视高清,[BD]江苏卫视 8m1080,[BD]江苏卫视 高清,江苏卫视HD,[BD]江苏卫视,江苏卫视hd,荔枝台,江苏卫视频晴,江苏卫视HEVC,江苏卫视_HEVC,备用源1:江苏卫视,备用源2:江苏卫视,Jiangsu Satellite TV,江苏卫视SD,江苏卫视咪咕
+江苏卫视,江蘇衛視,江苏卫视高清,江苏卫视 高清,江苏卫视 8m1080,江蘇衛視(B),[BD]江苏卫视高清,[BD]江苏卫视 8m1080,[BD]江苏卫视 高清,江苏卫视HD,[BD]江苏卫视,江苏卫视hd,荔枝台,江苏卫视频晴,江苏卫视HEVC,江苏卫视_HEVC,备用源1:江苏卫视,备用源2:江苏卫视,Jiangsu Satellite TV,江苏卫视SD,江苏卫视咪咕,江苏卫视 (1080p)
 江西卫视,江西衛視,江西卫视高清,江西卫视 高清,江西卫视 8m1080,[BD]江西卫视高清,[BD]江西卫视 8m1080,[BD]江西卫视 高清,江西卫视HD,[BD]江西卫视,江西卫视hd,江西卫视频晴,江西卫视HEVC,江西卫视_HEVC,备用源1:江西卫视,江西卫视SD,江西卫视咪咕
 辽宁卫视,遼寧衛視,辽宁卫视高清,辽宁卫视 高清,辽宁卫视 8m1080,[BD]辽宁卫视高清,[BD]辽宁卫视 8m1080,[BD]辽宁卫视 高清,辽宁卫视HD,[BD]辽宁卫视,辽宁卫视hd,辽宁卫视频晴,辽宁卫视HEVC,辽宁卫视_HEVC,备用源1:辽宁卫视,辽宁卫视SD
 内蒙古卫视,內蒙古衛視,内蒙古卫视高清,内蒙古卫视 高清,内蒙古卫视 8m1080,[BD]内蒙古卫视高清,[BD]内蒙古卫视 8m1080,[BD]内蒙古卫视 高清,内蒙古卫视HD,[BD]内蒙古卫视,内蒙,内蒙古卫视hd,Nei Monggol TV,内蒙古卫视频晴,备用源1:内蒙古卫视,备用源2:内蒙古卫视,Nei Monggol TV (1080i) [Not 24/7],内蒙古卫视SD
-宁夏卫视,寧夏衛視,宁夏卫视高清,宁夏卫视 高清,宁夏卫视 8m1080,[BD]宁夏卫视高清,[BD]宁夏卫视 8m1080,[BD]宁夏卫视 高清,宁夏卫视HD,[BD]宁夏卫视,宁夏卫视hd,宁夏卫视频晴,备用源1:宁夏卫视,Ningxia Satellite Channel,卫视频道,宁夏卫视SD
+宁夏卫视,寧夏衛視,宁夏卫视高清,宁夏卫视 高清,宁夏卫视 8m1080,[BD]宁夏卫视高清,[BD]宁夏卫视 8m1080,[BD]宁夏卫视 高清,宁夏卫视HD,[BD]宁夏卫视,宁夏卫视hd,宁夏卫视频晴,备用源1:宁夏卫视,Ningxia Satellite Channel,卫视频道,宁夏卫视SD,宁夏卫视 (576p)
 青海卫视,青海衛視,青海卫视高清,青海卫视 高清,青海卫视 8m1080,[BD]青海卫视高清,[BD]青海卫视 8m1080,[BD]青海卫视 高清,青海卫视HD,[BD]青海卫视,青海卫视hd,青海卫视频晴,备用源1:青海卫视,青海卫视SD,Qinghai TV,Qinghai_TV
 三沙卫视,三沙衛視,三沙卫视高清,三沙卫视 高清,三沙卫视 8m1080,[BD]三沙卫视高清,[BD]三沙卫视 8m1080,[BD]三沙卫视 高清,三沙卫视HD,[BD]三沙卫视,三沙卫视频晴,三沙卫视SD
 山东卫视,山東衛視,山东卫视高清,山东卫视 高清,山东卫视 8m1080,[BD]山东卫视高清,[BD]山东卫视 8m1080,[BD]山东卫视 高清,山东卫视HD,[BD]山东卫视,山东卫视hd,山东卫视频晴,山东卫视HEVC,山东卫视_HEVC,备用源1:山东卫视,Shandong Satellite TV,山东卫视SD,山东卫视咪咕
 山西卫视,山西衛視,山西卫视高清,山西卫视 高清,山西卫视 8m1080,[BD]山西卫视高清,[BD]山西卫视 8m1080,[BD]山西卫视 高清,山西卫视HD,[BD]山西卫视,山西卫视hd,山西卫视频晴,山西卫视SD
 陕西卫视,陝西衛視,陕西卫视高清,陕西卫视 高清,陕西卫视 8m1080,[BD]陕西卫视高清,[BD]陕西卫视 8m1080,[BD]陕西卫视 高清,陕西卫视HD,[BD]陕西卫视,Shaanxi Satellite TV,陕西卫视频晴,备用源1:陕西卫视,备用源2:陕西卫视,Shaanxi Satelital TV,Shaanxi_Satelital_TV,陕西卫视SD,陕西卫视咪咕
-深圳卫视,深圳衛視,深圳卫视高清,深圳卫视 高清,深圳卫视 8m1080,[BD]深圳卫视高清,[BD]深圳卫视 8m1080,[BD]深圳卫视 高清,深圳卫视HD,[BD]深圳卫视,深圳卫视hd,深圳卫视频晴,深圳卫视HEVC,深圳卫视_HEVC,备用源1:深圳卫视,Shenzhen Satellite TV,Shenzhen_Satellite_TV_,Shenzhen Satellite TV (2160p),Shenzhen_Satellite_TV_(2160p),深圳卫视SD,深圳卫视咪咕
+深圳卫视,深圳衛視,深圳卫视高清,深圳卫视 高清,深圳卫视 8m1080,[BD]深圳卫视高清,[BD]深圳卫视 8m1080,[BD]深圳卫视 高清,深圳卫视HD,[BD]深圳卫视,深圳卫视hd,深圳卫视频晴,深圳卫视HEVC,深圳卫视_HEVC,备用源1:深圳卫视,Shenzhen Satellite TV,Shenzhen_Satellite_TV_,Shenzhen Satellite TV (2160p),Shenzhen_Satellite_TV_(2160p),深圳卫视SD,深圳卫视咪咕,深圳卫视 (1080p)
 天津卫视,天津衛視,天津卫视高清,天津卫视 高清,天津卫视 8m1080,[BD]天津卫视高清,[BD]天津卫视 8m1080,[BD]天津卫视 高清,天津卫视HD,[BD]天津卫视,天津卫视hd,天津卫视频晴,天津卫视HEVC,天津卫视_HEVC,天津卫视SD
 西藏卫视,西藏衛視,西藏卫视高清,西藏卫视 高清,西藏卫视 8m1080,[BD]西藏卫视高清,[BD]西藏卫视 8m1080,[BD]西藏卫视 高清,西藏卫视HD,[BD]西藏卫视,西藏卫视hd,西藏影视,西藏影视文化,西藏藏语频道,西藏卫视频晴,备用源1:西藏卫视,Xizang TV Tibetan (720p) [Not 24/7],西藏卫视SD,Xizang_TV_Tibetan_(720p)_[Not_24/7],Xizang TV Tibetan,Xizang_TV_Tibetan__[Not_24/7]
 新疆卫视,新疆衛視,新疆卫视高清,新疆卫视 高清,新疆卫视 8m1080,[BD]新疆卫视高清,[BD]新疆卫视 8m1080,[BD]新疆卫视 高清,新疆卫视HD,[BD]新疆卫视,新疆卫视hd,Xinjiang TV,新疆卫视频晴,备用源1:新疆卫视,新疆卫视SD
 云南卫视,雲南衛視,云南卫视高清,云南卫视 高清,云南卫视 8m1080,[BD]云南卫视高清,[BD]云南卫视 8m1080,[BD]云南卫视 高清,云南卫视HD,[BD]云南卫视,云南卫视hd,云南卫视频晴,备用源1:云南卫视,Yunnan Satellite TV,云南卫视SD
 浙江卫视,浙江衛視,浙江卫视高清,浙江卫视 高清,浙江卫视 8m1080,[BD]浙江卫视高清,[BD]浙江卫视 8m1080,[BD]浙江卫视 高清,浙江卫视HD,[BD]浙江卫视,浙江卫视hd,蓝莓台,浙江卫视频晴,浙江卫视HEVC,浙江卫视_HEVC,备用源1:浙江卫视,Zhejiang Satellite TV,Zhejiang_Satellite_TV,浙江卫视SD,浙江卫视咪咕
-兵团卫视,兵團衛視,兵团卫视高清,兵团卫视 高清,兵团卫视 8m1080,[BD]兵团卫视高清,[BD]兵团卫视 8m1080,[BD]兵团卫视 高清,兵团卫视HD,[BD]兵团卫视,兵团卫视高清 1080P,兵团卫视HD 1080P,兵团卫视hd,兵团卫视频晴,兵团卫视SD,兵团卫视咪咕
+兵团卫视,兵團衛視,兵团卫视高清,兵团卫视 高清,兵团卫视 8m1080,[BD]兵团卫视高清,[BD]兵团卫视 8m1080,[BD]兵团卫视 高清,兵团卫视HD,[BD]兵团卫视,兵团卫视高清 1080P,兵团卫视HD 1080P,兵团卫视hd,兵团卫视频晴,兵团卫视SD,兵团卫视咪咕,兵团卫视 (540p)
 
 # Source: https://github.com/Guovin/iptv-api/discussions/1082
 # Discussion #1082: imported from the linked attachment and direct-text comments.
@@ -396,7 +396,7 @@ HBO家庭,HBO Family Brasil,HBO Family HD,HBOFamily,HBO family,Hbo家庭台,HBO�
 HBO巨献,Hbo巨献台,Hbo巨献备
 HGTV,HGTV频道
 HGTV居家乐活频道,hgtvhome,hgtv居家乐活频道,乐活
-HISTORY,history,history历史,历史频道
+HISTORY,history,history历史,历史频道,History
 HITS,hits,hits娱乐
 HITS MOVIES,hitsmovies,hits电影
 HNXTTV1,hnxttv1,河南新乡1台
@@ -487,7 +487,7 @@ MEZZOLIVE,mezzolive
 MNET,mnet
 momo1台,momo1
 momo2台,momo2
-MOMOTV,MOMO电视台,momo'tv,MOMO親子臺,MOMO親子台,MOMO TV,MOMO購物台,MOMO,MOMO 亲子台,Momo,MOMO TV (1080p),momotv
+MOMOTV,MOMO电视台,momo'tv,MOMO親子臺,MOMO親子台,MOMO TV,MOMO購物台,MOMO,MOMO 亲子台,Momo,MOMO TV (1080p),momotv,MoMoTV,Momo TV
 MOMO亲子台,momo亲子台
 MOMO综合台4K,momo综合4k,momo综合台4k
 MOND,mond
@@ -552,7 +552,7 @@ now体育Prime,香港now体育Prime,now Sports Prime,nowSportsPrime,Now Sports P
 now剧集台,Now剧集台
 now华剧台,香港now华剧台,now Chinese Drama Channel,now華劇台,nowChineseDramaChannel
 Now报价台,香港Now报价台,now Data,now報價台,nowData
-NOW新闻台,NOW新聞台,NOW NEWS,now新闻台,Now新闻Pdtv,Now新闻频晴,Now新闻频伍,Now新闻频陆
+NOW新闻台,NOW新聞台,NOW NEWS,now新闻台,Now新闻Pdtv,Now新闻频晴,Now新闻频伍,Now新闻频陆,Now新闻
 now星影台,Now星影台,Now 星影台
 Now爆谷台,香港Now爆谷台,now Baogu Movies,now爆谷台,nowBaoguMovies
 now直播台,香港now直播台,now Direct,Now直播台,nowDirect
@@ -622,7 +622,7 @@ TVB1,TVB 1
 TVBPEARL,bpearl
 TVBS,tvbs,台湾TVBS,TVBS HD,Tvbs_HD频陆,Tvbs
 TVBS台剧台,bs剧
-TVBS新闻,TVBS-Asia,TVBS网路新闻,tvbs新闻频晴,TVBS新闻频陆,tvbs新闻4Gtv,TVBS Asia,TVBS_Asia_,TVBS Asia (1080p),TVBSNEWS,TVBS ASIA,TVBS News,tvbsasia,TVBS News (TVBS新聞台) [Geo-blocked],tvbsnews
+TVBS新闻,TVBS-Asia,TVBS网路新闻,tvbs新闻频晴,TVBS新闻频陆,tvbs新闻4Gtv,TVBS Asia,TVBS_Asia_,TVBS Asia (1080p),TVBSNEWS,TVBS ASIA,TVBS News,tvbsasia,TVBS News (TVBS新聞台) [Geo-blocked],tvbsnews,TVBS新聞台
 TVBS新闻台,tvbs新闻,tvbs新闻台
 TVBS欢乐台,tvbs欢乐,tvbs欢乐台
 TVBS精采台,tvbs精采台,TVBS精采,TVBS 精采台,tvbs精彩台,Tvbs精彩台,TVBS-精彩台,tvbs精采频晴,tvbs精采
@@ -1020,7 +1020,6 @@ Z频道,zchannel,z频道
 功夫台,功夫频道,功夫衛視,无线功夫台
 动作影院,动作影院
 动感音乐,动感音乐
-动物星球频道,动物星球
 动画,动画
 劲爆体育,sitv劲爆体育,劲爆体育高清
 勃利综合,勃利电视台
@@ -1054,7 +1053,7 @@ Z频道,zchannel,z频道
 华州综合,华州电视台
 华艺MBC,华艺mbc综合台
 华艺影剧,华艺影剧台
-华视,华视综合台,中华电视公司,CTS (HUA-CHI CTS) (1080p),cts
+华视,华视综合台,中华电视公司,CTS (HUA-CHI CTS) (1080p),cts,華視
 华视教育体育文化台,华视教育文化
 华视新闻,华视新闻台,華視新聞,华视新闻频晴,CTS News (華視新聞資訊) [Geo-blocked],ctsnews
 华语剧台,华语剧
@@ -1064,9 +1063,9 @@ Z频道,zchannel,z频道
 南京十八,南京十八频道,十八频道,南京十八 (576p),南京十八_(576p),南京十八_
 南京十八生活,南京十八生活
 南京娱乐,南京娱乐频道
-南京少儿,南京少儿频道,南京青少频道,南京青少
+南京少儿,南京少儿频道,南京青少频道,南京青少,南京少儿 (720p)
 南京影视,南京影视
-南京教科,南京教科频道,南京二套
+南京教科,南京教科频道,南京二套,南京教科 (720p)
 南京教育科技,南京教育科技
 南京文旅纪录,南京文旅
 南京新闻综合,南京,南京电视台新闻综合频道,南京一套,南京电视台新闻综合
@@ -1148,7 +1147,7 @@ Z频道,zchannel,z频道
 台湾戏剧,台湾戏剧台
 台湾艺术台,台湾艺术
 台视,TTV,台湾电视台,台视 (720p),视
-台视新闻,TTV新闻,台湾TTV新闻,TTV News,TTVNews,台視新聞,台视新聞
+台视新闻,TTV新闻,台湾TTV新闻,TTV News,TTVNews,台視新聞,台视新聞,台視新聞台
 台视新闻台,台视新闻台
 台视综合台,台视综合
 台视财经,台視財經,台視财经台,台视财经频陆,台视财经频晴
@@ -1181,7 +1180,7 @@ Z频道,zchannel,z频道
 吕梁新闻综合,吕梁电视台新闻综合频道,吕梁一套,吕梁电视台新闻综合
 吴堡综合,吴堡电视台
 吴忠公共,吴忠电视台公共频道,吴忠电视台公共
-吴江新闻综合,吴江新闻
+吴江新闻综合,吴江新闻,吴江新闻综合 (720p)
 吴起综合,吴起电视台
 周口1,周口1
 周口2,周口2公共,周口公共
@@ -1400,7 +1399,7 @@ Z频道,zchannel,z频道
 家庭理财,家庭理财
 宾川一套,宾川电视台一套
 宿州公共,宿州电视台公共频道,宿州电视台公共,宿州公共 (1080p) [Not 24/7]
-宿州新闻综合,宿州电视台新闻综合频道,宿州一套,宿州电视台新闻综合
+宿州新闻综合,宿州电视台新闻综合频道,宿州一套,宿州电视台新闻综合,宿州新闻综合 (1080p)
 宿州科教,宿州电视台科教频道,宿州电视台科教,宿州科教 (1080p) [Not 24/7]
 宿豫综合,宿豫电视台
 宿迁公共,宿迁公共频道
@@ -1530,7 +1529,7 @@ Z频道,zchannel,z频道
 库伦旗电视台,库伦旗新闻综合频道,库伦旗新闻综合
 府谷综合,府谷电视台
 康定新闻综合,康定电视台新闻频道,康定电视台新闻
-康巴卫视,四川康巴卫视,康巴卫视hd,康巴卫视高清,康巴藏语卫视,康巴卫视频晴,Kangba TV
+康巴卫视,四川康巴卫视,康巴卫视hd,康巴卫视高清,康巴藏语卫视,康巴卫视频晴,Kangba TV,康巴卫视 (720p)
 廊坊新闻综合,廊坊电视台新闻综合频道,廊坊一套,廊坊电视台新闻综合
 延安新闻综合,延安电视台新闻综合频道,延安一套,延安电视台新闻综合
 延川综合,延川电视台
@@ -1642,7 +1641,7 @@ Z频道,zchannel,z频道
 新安新闻综合,新安新闻综合频道,新安电视台新闻综合频道,新安电视台新闻综合
 新密新闻,新密新闻频道
 新平综合,新平电视台
-新昌新闻综合,新昌电视台
+新昌新闻综合,新昌电视台,新昌新闻综合 (1080p)
 新沂新闻,新沂电视台新闻频道,新沂电视台新闻
 新沂生活,新沂生活频道
 新泰乡村,新泰乡村
@@ -1654,7 +1653,7 @@ Z频道,zchannel,z频道
 新罗电视一套,新罗电视台,新罗综合频道,新罗综合
 新蔡综合,新蔡综合频道
 新视觉,sitv新视觉,新视觉高清,新视觉体育,新视觉英超频道,新视觉高清频道,新视觉英超
-新郑综合,新郑综合频道,新郑综合__
+新郑综合,新郑综合频道,新郑综合__,新郑综合 (1080p)
 新都综合,新都电视台
 方城一套,方城一套
 旅游卫视,旅游
@@ -1798,15 +1797,14 @@ Z频道,zchannel,z频道
 武陟新闻综合,武陟新闻综合频道,武陟电视台新闻综合频道,武陟电视台新闻综合
 毕节综合,毕节电视台综合频道,毕节电视台综合
 民和综合,民和电视台
-民视,民视综合台,民间全民电视公司,FTV_,FTV,FTV (576p),FTV (720p),FTV (民視) (720p) [Not 24/7],ftv
+民视,民视综合台,民间全民电视公司,FTV_,FTV,FTV (576p),FTV (720p),FTV (民視) (720p) [Not 24/7],ftv,民視
 民视台湾台,民视台湾,民视台湾频陆,民视台湾频晴
 民视影剧,民视影剧频陆,民視影劇,民视影劇台
 民视影剧台,民视影剧台
-民视新闻,民视新闻HD,FTV News,民视新闻频晴,民视新闻频陆,民视新闻4Gtv
+民视新闻,民视新闻HD,FTV News,民视新闻频晴,民视新闻频陆,民视新闻4Gtv,民視新聞台
 民视新闻台,民视新闻台
 民视旅游台,民视旅游
 民视无线台,民视无线
-民视第一台,民视第一,民视第一频陆,民视第一频晴,FTV One (民視第一台) (720p) [Not 24/7],ftvone
 永吉综合,永吉电视台
 永善综合,永善电视台
 永嘉新闻综合,永嘉电视台
@@ -1849,8 +1847,8 @@ Z频道,zchannel,z频道
 江苏城市,江苏城市
 江苏城市频道,城市频道,江苏一套,江苏城市高清,江苏城市 (576p),江苏城市_(576p),江苏城市_
 江苏影视,江苏影视
-江苏影视频道,影视频道,江苏三套,Jilin Movie Channel,Jilin_Movie_Channel,JilinMovieChannel,影视频道(IPV6)
-江苏教育,江苏教育频道,江苏教育台
+江苏影视频道,影视频道,江苏三套,Jilin Movie Channel,Jilin_Movie_Channel,JilinMovieChannel,影视频道(IPV6),江苏影视 (576p)
+江苏教育,江苏教育频道,江苏教育台,江苏教育 (576p)
 江苏新闻,江苏新闻频道,江苏新闻高清
 江苏综艺,江苏综艺频道,江苏二套,江苏综艺高清,江苏综艺 (576p) [Not 24/7]
 江西公共农业,江西公共,公共农业,江西公共农业频道,江西公共频道,Jiangxi Public & Agriculture Channel,Jiangxi_Public_&_Agriculture_Channel
@@ -1943,7 +1941,6 @@ Z频道,zchannel,z频道
 济源电视一套,济源电视一套
 浙江NEWS,浙江news
 浙江之江纪录,浙江之江纪录频道
-浙江公共新闻,浙江公共,浙江公共频道,浙江公共新闻高清
 浙江国际,浙江国际频道,浙江对外传播频道,备用源1:浙江国际,浙江对外传播,Zhejiang International Channel
 浙江少儿,浙江少儿频道,浙江青少频道,浙江少儿高清,备用源1:浙江少儿,浙江青少,Zhejiang Children's Channel
 浙江影视,浙江影视
@@ -1973,7 +1970,7 @@ Z频道,zchannel,z频道
 海南自贸频道,自贸频道,海南自由贸易试验区频道,海南综合频道,海南自由贸易试验区,海南综合,海南自贸SD
 海口新闻综合,海口电视台新闻综合频道,海口一套,海口电视台新闻综合
 海宁新闻综合,海宁电视台
-海峡卫视,海峡卫视高清,福建海峡卫视,海峡卫视频晴,备用源1:海峡卫视,备用源2:海峡卫视,备用源3:海峡卫视
+海峡卫视,海峡卫视高清,福建海峡卫视,海峡卫视频晴,备用源1:海峡卫视,备用源2:海峡卫视,备用源3:海峡卫视,海峽衛視
 海盐新闻综合,海盐电视台
 海西州综合,海西州综合频道,海西州电视台综合频道,海西州电视台综合,海西州综合 (576p),海西州综合_(576p),海西州综合_
 海门新闻综合,海门电视台新闻综合频道,海门电视台新闻综合
@@ -2145,7 +2142,7 @@ Z频道,zchannel,z频道
 甘孜综合,甘孜综合频道,甘孜电视台综合频道,甘孜电视台综合
 甘泉综合,甘泉电视台
 甘洛综合,甘洛电视台
-甘肃公共,甘肃公共
+甘肃公共,甘肃公共,甘肃公共 (540p)
 甘肃公共应急,公共应急,甘肃公共频道,甘肃一套
 甘肃少儿,甘肃少儿频道
 甘肃文化,甘肃文化影视频道
@@ -2328,10 +2325,9 @@ Z频道,zchannel,z频道
 萍乡新闻综合,萍乡电视台新闻综合频道,萍乡一套,萍乡电视台新闻综合,萍鄉新聞綜合 (576p) [Not 24/7],萍乡新闻综合 (576p) [Not 24/7],萍鄉新聞綜合
 营口新闻综合,营口电视台新闻综合频道,营口一套,营口电视台新闻综合
 营山电视台,营山综合
-萧山新闻综合,萧山电视台,萧山综合
+萧山新闻综合,萧山电视台,萧山综合,萧山新闻综合 (720p)
 葫芦岛新闻综合,葫芦岛电视台新闻综合频道,葫芦岛一套,葫芦岛电视台新闻综合
 蒙语卫视,蒙语,内蒙古蒙语卫视
-蒙语文化,内蒙古蒙古语文化频道,蒙古语卫视频道,内蒙古蒙古语文化,语卫视频道,Nei Monggol TV 2 Mongolian Culture Channel,Nei_Monggol_TV_2_Mongolian_Culture_Channel
 蒲城综合,蒲城电视台
 蓟州电视台,蓟县电视台,蓟州新闻综合频道,蓟州新闻综合
 蓬安新闻综合,蓬安电视台新闻频道,蓬安电视台新闻,蓬安新闻综合 (720p) [Not 24/7]
@@ -2362,9 +2358,9 @@ Z频道,zchannel,z频道
 西安商务,西安商务资迅
 西安商务资讯,西安商务资讯频道,西安三套,西安商务资讯 (180p) [Not 24/7]
 西安少儿,西安少儿频道
-西安影视,西安影视频道,西安戏剧
+西安影视,西安影视频道,西安戏剧,西安影视 (180p)
 西安教育,西安教育频道
-西安新闻,西安新闻
+西安新闻,西安新闻,西安新闻 (1080p)
 西安新闻综合,西安电视台新闻综合频道,西安一套,西安电视台新闻综合
 西安移动电视,西安移动电视
 西安都市,西安都市频道,西安二套
@@ -2630,9 +2626,9 @@ Z频道,zchannel,z频道
 隆安新闻综合,隆安电视台,隆安频道
 隆昌新闻综合,隆昌电视台新闻频道,隆昌电视台新闻
 随州公共,随州公共频道
-随州农村,suizhourural,随州农业
+随州农村,suizhourural,随州农业,随州农村 (720p)
 随州新闻综合,随州新闻,随州新闻综合频道,随州电视台新闻综合频道,随州电视台新闻综合
-随州综合,随州综合频道
+随州综合,随州综合频道,随州综合 (720p)
 雅安文化生活,雅安文化生活
 雅安新闻综合,雅安,雅安电视台新闻综合频道,雅安一套,雅安电视台新闻综合
 集安综合,集安电视台,集安综合 [Geo-blocked]
@@ -2844,7 +2840,7 @@ ABN China,ABN China (720p)
 Angel TV Chinese,Angel TV Chinese (720p)
 CGTN Documentary,CGTN Documentary (1080p)
 广东卫视,Guangdong Satellite TV
-Nei Monggol TV 2 Mongolian Culture Channel,Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+Nei Monggol TV 2 Mongolian Culture Channel,内蒙古蒙古语文化频道,蒙古语卫视频道,内蒙古蒙古语文化,语卫视频道,Nei_Monggol_TV_2_Mongolian_Culture_Channel,Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7],蒙语文化
 TV BRICS Chinese,TV BRICS Chinese (1080p)
 ado tv,[BD]ado tv
 chc高清电影,[BD]chc高清电影[ipv6]
@@ -2889,7 +2885,7 @@ cctv-4中文国际,[SD]cctv-4中文国际
 韶关公共台,广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 韶关综合台,广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 建安电视台,建安电视台 (1080p) [Not 24/7]
-文山综合,文山综合 (1080p) [Not 24/7]
+文山综合,文山综合 (1080p) [Not 24/7],文山综合台
 新昌休闲影视,新昌休闲影视 (1080p) [Not 24/7]
 新泰乡村党建,新泰乡村党建 (480p) [Not 24/7]
 新泰影视频道,新泰影视频道 (480p) [Not 24/7]
@@ -2932,3 +2928,31 @@ cctv-4中文国际,[SD]cctv-4中文国际
 GOOD TV综合台,GOOD TV CH1 綜合台 (720p) [Not 24/7],goodtvch1综合
 GOOD TV真理台,GOOD TV CH2 真理台 (720p),goodtvch2真理
 唯心电视,唯心電視 (480p)
+JSPORTS1,J_SPORTS_1
+JSPORTS2,J_SPORTS_2
+NOW星影台,Now星影
+NOW爆谷台,Now爆谷
+NatGeo,Natgeo_
+NatGeo Wild,NatGeo_Wild
+万州综合频道,万州综合 (576p)
+东森美洲卫视,東森美洲衛視
+云南 Ⅰ 文山综合台,云南 Ⅰ 文山综合台 (1080p)
+亚洲旅游,Asia Travel
+动物星球,Animal Planet (Eng),Animal_Planet,动物星球频道
+北京纪实8K,北京纪实8k
+南阳科教频道,南阳科教频道 (1080p)
+四川 Ⅰ 四川影视台,四川 Ⅰ 四川影视台 (720p)
+四川 Ⅰ 四川新闻台,四川 Ⅰ 四川新闻台 (720p)
+四川 Ⅰ 巴中综合台,四川 Ⅰ 巴中综合台 (1080p)
+四川 Ⅰ 星空购物台,四川 Ⅰ 星空购物台 (720p)
+四川 Ⅰ 达州公共台,四川 Ⅰ 达州公共台 (720p)
+四川 Ⅰ 达州综合台,四川 Ⅰ 达州综合台 (720p)
+广东 Ⅰ 韶关公共台,广东 Ⅰ 韶关公共台 (720p)
+广东 Ⅰ 韶关综合台,广东 Ⅰ 韶关综合台 (720p)
+张家界1,张家界1 (240p)
+抚州综合频道,抚州综合频道 (270p)
+民视第一,民视第一频陆,民视第一频晴,FTV One (民視第一台) (720p) [Not 24/7],ftvone,民视第一台
+江苏 Ⅰ 连云港公共,江苏 Ⅰ 连云港公共 (480p)
+江苏 Ⅰ 连云港综合,江苏 Ⅰ 连云港综合 (480p)
+浙江公共,浙江公共频道,浙江公共新闻高清,浙江公共 (1080p),浙江公共新闻
+萧山生活,萧山生活频道 (720p),萧山生活频道
