@@ -5,8 +5,25 @@
 
 https://m3u.ibert.me/o_s_cn.m3u
 https://m3u.ibert.me/cn_n.m3u
+https://m3u.ibert.me/o_cn.m3u
+https://m3u.ibert.me/cn_c.m3u
+https://m3u.ibert.me/cn_p.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365_lite.m3u
 
 
+https://iptv-org.github.io/iptv/countries/hk.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://iptv-org.github.io/iptv/countries/mo.m3u
+# 2026-09-09 新增狩猎(双模全过)
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
+https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
+# 2026-09-09 第二轮狩猎(双模8/8)
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/zhi35/iptv/master/iptv.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+
