@@ -850,6 +850,7 @@ TVB翡翠4K
 靖洋卡通Nice Bingo
 鳳凰衛視美洲台
 Bread TV面包台
+漢天衛視
 境外频道,#genre#
 AXN
 ABN China
@@ -915,7 +916,6 @@ NatGeo
 NatGeo Wild
 TLC
 CNBC
-漢天衛視
 动物星球
 amc电影
 新加坡国际
