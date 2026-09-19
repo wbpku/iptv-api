@@ -183,7 +183,7 @@ AstroAOD,Astro AOD,Astro AOD(多音轨字幕),ASTROAOD,astro aod,Astro AOD *b,As
 AstroAEC,Astro AEC,Astro AEC(多音轨字幕),ASTROAEC,Astro AEC *ee,Astro AEC *b,astroaec
 AstroQJ,Astro QJ,Astro QJ(多音轨字幕)
 Astro欢喜台,ASTRO欢喜台,ASTRO 欢喜 *b,astro欢喜,Astro 欢喜台,Astr欢喜台,Astro 欢喜,astro欢喜台
-千禧经典,千禧经典台,千禧經典臺,千禧經典,TVB千禧经典台,TVB 千禧经典台
+TVB千禧经典,千禧经典,千禧经典台,千禧經典臺,千禧經典,TVB千禧经典台,TVB 千禧经典台
 天映频道,天映頻道,天映,天映频道(新加坡),[BD]天映 *b,[BD]天映,天映频道 (新加坡),Celestial Movies,天映频道频晴,天映频伍,天映频陆,CelestialMovies,Celestial Movies (576i),CELESTIAL MOVIES,celestialmovies
 靖天映画,靖天映畫,[BD]靖天映畫,[BD]靖天映画,靖天映画台,靖天映画频陆,靖天映画频晴
 龙华电影,龍華電影,[BD]龍華電影,龙华电影Pdtv,龙华电影台,龍華電影台,龙华电影频晴
