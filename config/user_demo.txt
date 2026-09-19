@@ -50,6 +50,8 @@ CCTV+
 CCTV-ENTERTAINMENT
 CCTV-NEWS
 CCTV-OPERA
+China Travel
+Discovering China
 卫视频道,#genre#
 东方卫视国际
 云南卫视
@@ -104,11 +106,8 @@ CCTV-OPERA
 海峡卫视
 深圳卫视4K
 地方频道,#genre#
-Bread TV面包台
 CHC家庭影院
-China Travel
 Chuxiong News Channel
-Discovering China
 Foshan News TV
 Fujian Comprehensive Channel
 Guangxi Variety & Travel Channel
@@ -117,7 +116,6 @@ Jilin Lifestyle Channel
 Jilin Rural Channel
 Nanchang News & Generalist Channel
 QTV-2
-VOA美国之音
 Xinjiang TV 1
 Xinjiang TV 2
 Xinjiang TV 3
@@ -581,6 +579,10 @@ Nei Monggol TV 2 Mongolian Culture Channel
 万州三峡移民
 浙江民生休闲
 苏州4K
+广东珠江
+广东民生
+湖北经视
+湖南经视
 专业频道,#genre#
 chc动作电影
 chc高清电影
@@ -608,7 +610,6 @@ newtv超级体育
 魅力足球
 财富天下
 陕西西部电影
-广东珠江
 中国气象
 华数
 孟州电视台
@@ -653,7 +654,6 @@ iHOT爱体育
 宁波TV4
 客家电视
 山东文旅
-广东民生
 广州竞赛
 快乐垂钓
 新动漫
@@ -671,11 +671,9 @@ iHOT爱体育
 深圳东部
 深圳移动电视
 湖北垄上
-湖北经视
 湖南国际
 湖南爱晚
 湖南电影
-湖南经视
 湖南金鹰纪实
 無綫新聞台
 猪哥亮歌厅秀
@@ -851,6 +849,7 @@ TVB翡翠4K
 澳門綜藝
 靖洋卡通Nice Bingo
 鳳凰衛視美洲台
+Bread TV面包台
 境外频道,#genre#
 AXN
 ABN China
@@ -922,3 +921,4 @@ amc电影
 新加坡国际
 亚洲旅游
 深圳國際
+VOA美国之音
