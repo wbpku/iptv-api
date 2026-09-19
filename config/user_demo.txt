@@ -148,7 +148,6 @@ Zhejiang TV International
 凉山彝语频道
 凤凰中文
 凤凰资讯
-凤凰香港
 利川公共
 前郭综合
 动画王国
@@ -182,7 +181,6 @@ Zhejiang TV International
 大冶一套
 大冶二套
 大悟综合
-大爱海外
 女性时尚
 娄底综合
 安徽 Ⅰ 郎溪综合台
@@ -419,30 +417,14 @@ Zhejiang TV International
 霸州公共频道
 霸州少儿频道
 鹤壁新闻综合
-NOW新闻台
-NOW财经台
-TVBS新闻
-TVB娱乐
-TVB娱乐新闻
-TVB新闻
-TVB无线新闻
 潜江综合
-三立新闻
-三立新闻iNEWS
-三立综合
 上海外语
 上海点掌财经
 上海都市
 上虞综合
 东方影视
-东森新闻
-东森新闻美洲
-东森财经新闻
 东阳影视生活
 中国蓝新闻
-中天娱乐
-中天新闻
-中视新闻
 丰顺综合
 丽水云和综合
 丽水新闻
@@ -464,21 +446,14 @@ TVB无线新闻
 北美生活视频
 十堰新闻
 半·新闻
-华视教育文化
-华视新闻
-华视新闻资讯
 南国都市
 南国都市4K
 卡酷少儿
-台视新闻
-台视综合
-台视财经
 嘉兴公共
 嘉兴文化影视
 嘉兴新闻综合
 宁波宁海新闻
 寰宇新闻
-寰宇新闻台湾
 嵊州新闻
 嵊泗综合
 平湖新闻
@@ -492,7 +467,6 @@ TVB无线新闻
 新闻综合
 普陀新闻
 普陀新闻综合
-有线新闻
 杭州影视
 杭州生活
 杭州综合
@@ -504,7 +478,6 @@ TVB无线新闻
 武汉五台文体
 武汉六台外语
 武汉四台经济
-民视新闻
 永嘉新闻综合
 汕头经济
 汕头综合
@@ -579,7 +552,6 @@ TVB无线新闻
 镜电视新闻
 长沙新闻综合
 青州综合
-靖天综合
 非凡新闻
 韩国娱乐台
 龙泉新闻
@@ -593,6 +565,9 @@ TVB无线新闻
 广东体育
 河北4K
 辽宁体育
+Beijing Traffic Radio TV
+Beijing Youth Radio
+Nei Monggol TV 2 Mongolian Culture Channel
 专业频道,#genre#
 chc动作电影
 chc高清电影
@@ -645,52 +620,23 @@ CCTB高尔夫网球
 CHC影迷电影
 ELEVEN体育1
 ELEVEN体育2
-KLT-靖天国际
 KTSF26洛杉磯三藩市
 LiveABC互动英语频道
-MOMO亲子
-NOW星影台
-NOW爆谷台
-Nice TV 靖天欢乐
 Now直播台
-TVBS亚洲
-TVBS欢乐
-TVBS精采
-TVB功夫
-TVB千禧经典
-TVB华丽
-TVB明珠
-TVB星河
-TVB翡翠
-TVB翡翠4K
 amc电影
 iHOT爱体育
 一分钟学道菜
-三立戏剧
 上海纪实
 上虞文化
 上虞文化影院
 上虞新商都
-东森电影
-东森美洲2
-东森超视
 中华小当家
 中华美食
-中天亚洲
 中旺電視
-中视
-中视经典
-中视菁采
-中视闽南
 之江记录
 人与自然
 余杭未来
 余杭未来E
-东森幼幼
-靖天卡通
-八大戏剧
-八大精彩
-八大综艺
 公视
 公视台语
 关于本源(iptv365.org)
@@ -699,20 +645,12 @@ iHOT爱体育
 北美美食播客
 千禧经典
 华数4K
-华视
-华视闽南
-原住民族电视
 双月之城-国漫
-台视闽南
 名侦探柯南
 国家地理
 地理中国
 大愛一台
-大爱电视
-大立电视
 天元围棋
-天映经典
-天映频道
 好消息2台
 姚江文化
 宁波TV1
@@ -733,7 +671,6 @@ iHOT爱体育
 新加坡国际
 新动漫
 无线华丽
-易中天品三国
 杭州余杭平安
 杭州导视
 杭州明珠
@@ -743,13 +680,6 @@ iHOT爱体育
 東森美洲HD
 東森超視美洲台
 林俊杰经典合集
-民视
-民视台湾
-民视影剧
-民视旅游
-民视第一
-民视综艺
-民视闽南
 汕头文旅
 济宁图文
 浙江教科影院
@@ -771,8 +701,6 @@ iHOT爱体育
 漢天衛視
 漫画解说
 澳門綜藝
-澳门莲花
-澳门资讯
 無綫新聞台
 熊出没之探险日记S1-国漫
 猪哥亮歌厅秀
@@ -787,17 +715,10 @@ iHOT爱体育
 亚洲旅游
 亚洲美食
 美食星球
-纬来体育
-纬来日本
-纬来育乐
 绍兴文化
 绍兴文化影院
 经典卡通
-美亚C+
-美亚电影
 美國城市衛視
-翡翠台
-翡翠台4K
 苏州4K
 荆门科教文旅
 菏泽影
@@ -813,12 +734,6 @@ iHOT爱体育
 陶喆经典合集
 青岛城阳
 青田电视
-靖天戏剧
-靖天日本
-靖天映画
-靖天电影
-靖天育乐
-靖天资讯
 靖洋卡通Nice Bingo
 靖洋戏剧
 静心系列《宁静的冬季旋律》
@@ -832,17 +747,10 @@ iHOT爱体育
 音乐_捷克_Ocko
 音乐_捷克_Ocko Expres
 音乐_捷克_Ocko Star
-香港佛陀
-香港面包
 鳳凰衛視美洲台
-龙华电影
 🐼直播熊猫
-其他频道,#genre#
-Beijing Traffic Radio TV
-Beijing Youth Radio
-Nei Monggol TV 2 Mongolian Culture Channel
-境外频道,#genre#
-AXN
+易中天品三国
+港台频道,#genre#
 GOOD TV真理台
 GOOD TV综合台
 MOMOTV
@@ -863,6 +771,108 @@ MOMOTV
 澳视卫星
 澳视澳门
 澳门体育
+HOY76
+HOY77
+HOY78
+RTHK32
+TVB Plus
+TVBS
+VIU
+Now Sports Prime
+Taiwan Good TV General
+Taiwan Good TV Truth
+凤凰香港
+大爱海外
+NOW新闻台
+NOW财经台
+TVBS新闻
+TVB娱乐
+TVB娱乐新闻
+TVB新闻
+TVB无线新闻
+三立新闻
+三立新闻iNEWS
+三立综合
+东森新闻
+东森新闻美洲
+东森财经新闻
+中天娱乐
+中天新闻
+中视新闻
+华视教育文化
+华视新闻
+华视新闻资讯
+台视新闻
+台视综合
+台视财经
+寰宇新闻台湾
+有线新闻
+民视新闻
+靖天综合
+KLT-靖天国际
+MOMO亲子
+NOW星影台
+NOW爆谷台
+Nice TV 靖天欢乐
+TVBS亚洲
+TVBS欢乐
+TVBS精采
+TVB功夫
+TVB千禧经典
+TVB华丽
+TVB明珠
+TVB星河
+TVB翡翠
+TVB翡翠4K
+三立戏剧
+东森电影
+东森美洲2
+东森超视
+中天亚洲
+中视
+中视经典
+中视菁采
+中视闽南
+东森幼幼
+靖天卡通
+八大戏剧
+八大精彩
+八大综艺
+华视
+华视闽南
+原住民族电视
+台视闽南
+大爱电视
+大立电视
+天映经典
+天映频道
+民视
+民视台湾
+民视影剧
+民视旅游
+民视第一
+民视综艺
+民视闽南
+澳门莲花
+澳门资讯
+纬来体育
+纬来日本
+纬来育乐
+美亚C+
+美亚电影
+翡翠台
+翡翠台4K
+靖天戏剧
+靖天日本
+靖天映画
+靖天电影
+靖天育乐
+靖天资讯
+香港佛陀
+香港面包
+龙华电影
+境外频道,#genre#
+AXN
 ABN China
 Angel TV Chinese
 Dragon TV International
@@ -885,9 +895,6 @@ DAZN2
 DW News
 Discovery
 HISTORY
-HOY76
-HOY77
-HOY78
 JSPORTS1
 JSPORTS2
 J_SPORTS_3
@@ -897,22 +904,15 @@ Kuriakos Kids
 Love Nature 4K
 NBC News NOW
 NewsMax
-Now Sports Prime
-RTHK32
 Red Bull TV
 Sky News
-TVB Plus
-TVBS
 TVN
-Taiwan Good TV General
-Taiwan Good TV Truth
 Thrill
 Sky Sports Arena
 Sky Sports Cricket
 Sky Sports F1
 Sky Sports Golf
 Sky Sports News
-VIU
 nba tv
 Sky Sports
 Animax
