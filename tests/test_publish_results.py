@@ -51,6 +51,8 @@ class PublishResultsTests(unittest.TestCase):
                 "result.m3u",
                 "ipv4.txt",
                 "epg.gz",
+                "direct-ruleset.yaml",
+                "direct-ruleset.json",
                 "manifest.json",
                 "SHA256SUMS.txt",
             },
@@ -64,6 +66,45 @@ class PublishResultsTests(unittest.TestCase):
         self.assertIn(f"{result_digest}  result.txt", checksums)
         self.assertNotIn("log.log", checksums)
         self.assertNotIn("channel_results.db", checksums)
+
+    def test_exports_matching_direct_rules_from_public_playlist_urls(self):
+        self._write(
+            "result.txt",
+            b"Demo,http://viewer:secret@TV.Example:8080/live/token.m3u8\n"
+            b"Multicast,udp://@239.0.0.1:1234\n"
+            b"Malformed,http://[invalid\n",
+        )
+        self._write(
+            "result.m3u",
+            b'#EXTM3U x-tvg-url="https://epg.example/epg.xml"\n'
+            b'#EXTINF:-1 tvg-logo="https://images.example/logo.png",Demo\n'
+            b"https://tv.example/duplicate.m3u8\n",
+        )
+        self._write("ipv6/result.m3u", b"#EXTM3U\nhttps://[2001:db8::1]:443/live\n")
+        self._write("log/log.log", b"http://private.example/hidden\n")
+        destination = self.workspace / "release-assets"
+
+        manifest = prepare_release_assets("output/result.txt", destination)
+
+        rule_set = json.loads((destination / "direct-ruleset.json").read_text(encoding="utf-8"))
+        rule = rule_set["rules"][0]
+        self.assertEqual(rule_set["version"], 1)
+        self.assertEqual(rule["domain"], ["epg.example", "images.example", "tv.example"])
+        self.assertEqual(rule["ip_cidr"], ["239.0.0.1/32", "2001:db8::1/128"])
+        self.assertIn("52tb.xyz", rule["domain_suffix"])
+        self.assertIn("freetv.top", rule["domain_suffix"])
+        payload = (destination / "direct-ruleset.yaml").read_text(encoding="utf-8")
+        self.assertIn("  - IP-CIDR,239.0.0.1/32\n", payload)
+        self.assertIn("  - IP-CIDR6,2001:db8::1/128\n", payload)
+        self.assertIn("  - DOMAIN,tv.example\n", payload)
+        self.assertIn("  - DOMAIN-SUFFIX,52tb.xyz\n", payload)
+        self.assertNotIn("secret", payload)
+        self.assertNotIn("token", payload)
+        self.assertNotIn("private.example", payload)
+        self.assertEqual(payload.count("DOMAIN,tv.example\n"), 1)
+        for name in ("direct-ruleset.yaml", "direct-ruleset.json"):
+            asset = next(asset for asset in manifest["assets"] if asset["name"] == name)
+            self.assertEqual(asset["sha256"], hashlib.sha256((destination / name).read_bytes()).hexdigest())
 
     def test_rejects_final_file_outside_output_directory(self):
         secret = self.workspace / "secret.txt"

@@ -1,13 +1,26 @@
 import argparse
 import hashlib
+import ipaddress
 import json
 import os
+import re
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlsplit
 
 
 MAX_RELEASE_ASSET_BYTES = 2 * 1024 * 1024 * 1024 - 1
+
+DIRECT_DOMAIN_SUFFIXES = (
+    "163189.xyz",
+    "264788.xyz",
+    "52tb.xyz",
+    "cnlive.club",
+    "freetv.top",
+    "jdshipin.com",
+    "wns.live",
+)
 
 OPTIONAL_ASSETS = {
     "ipv4/result.txt": "ipv4.txt",
@@ -88,6 +101,54 @@ def prepare_release_assets(
         target = destination / asset_name
         shutil.copyfile(source, target)
         copied.append(target)
+
+    domains = set()
+    addresses = set()
+    for path in copied:
+        if path.suffix not in {".txt", ".m3u"}:
+            continue
+        urls = re.findall(r"(?:https?|rtmps?|rtsp|rtp|udp)://[^\s\"'<>,]+", path.read_text(encoding="utf-8"))
+        for url in urls:
+            try:
+                hostname = urlsplit(url).hostname
+            except ValueError:
+                continue
+            if not hostname:
+                continue
+            try:
+                addresses.add(ipaddress.ip_address(hostname))
+            except ValueError:
+                domains.add(hostname.rstrip("."))
+
+    sorted_addresses = sorted(addresses, key=lambda address: (address.version, int(address)))
+    payload = [
+        f"IP-CIDR{'6' if address.version == 6 else ''},{address}/{address.max_prefixlen}"
+        for address in sorted_addresses
+    ]
+    payload.extend(f"DOMAIN,{domain}" for domain in sorted(domains))
+    payload.extend(f"DOMAIN-SUFFIX,{domain}" for domain in DIRECT_DOMAIN_SUFFIXES)
+    clash_rules = destination / "direct-ruleset.yaml"
+    clash_rules.write_text(
+        "payload:\n" + "".join(f"  - {rule}\n" for rule in payload),
+        encoding="utf-8",
+    )
+    sing_box_rules = destination / "direct-ruleset.json"
+    sing_box_rules.write_text(
+        json.dumps(
+            {
+                "version": 1,
+                "rules": [{
+                    "domain": sorted(domains),
+                    "domain_suffix": list(DIRECT_DOMAIN_SUFFIXES),
+                    "ip_cidr": [f"{address}/{address.max_prefixlen}" for address in sorted_addresses],
+                }],
+            },
+            ensure_ascii=False,
+            indent=2,
+        ) + "\n",
+        encoding="utf-8",
+    )
+    copied.extend([clash_rules, sing_box_rules])
 
     generated_at = generated_at or datetime.now(timezone.utc).isoformat()
     assets = [
