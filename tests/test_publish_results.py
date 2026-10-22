@@ -76,7 +76,7 @@ class PublishResultsTests(unittest.TestCase):
         )
         self._write(
             "result.m3u",
-            b'#EXTM3U x-tvg-url="https://epg.example/epg.xml"\n'
+            b'#EXTM3U x-tvg-url="https://github.com/owner/repo/releases/download/latest/epg.xml"\n'
             b'#EXTINF:-1 tvg-logo="https://images.example/logo.png",Demo\n'
             b"https://tv.example/duplicate.m3u8\n",
         )
@@ -89,7 +89,7 @@ class PublishResultsTests(unittest.TestCase):
         rule_set = json.loads((destination / "direct-ruleset.json").read_text(encoding="utf-8"))
         rule = rule_set["rules"][0]
         self.assertEqual(rule_set["version"], 1)
-        self.assertEqual(rule["domain"], ["epg.example", "images.example", "tv.example"])
+        self.assertEqual(rule["domain"], ["tv.example"])
         self.assertEqual(rule["ip_cidr"], ["239.0.0.1/32", "2001:db8::1/128"])
         self.assertIn("52tb.xyz", rule["domain_suffix"])
         self.assertIn("freetv.top", rule["domain_suffix"])

@@ -107,7 +107,11 @@ def prepare_release_assets(
     for path in copied:
         if path.suffix not in {".txt", ".m3u"}:
             continue
-        urls = re.findall(r"(?:https?|rtmps?|rtsp|rtp|udp)://[^\s\"'<>,]+", path.read_text(encoding="utf-8"))
+        stream_lines = "\n".join(
+            line for line in path.read_text(encoding="utf-8").splitlines()
+            if not line.lstrip().startswith("#")
+        )
+        urls = re.findall(r"(?:https?|rtmps?|rtsp|rtp|udp)://[^\s\"'<>,]+", stream_lines)
         for url in urls:
             try:
                 hostname = urlsplit(url).hostname
